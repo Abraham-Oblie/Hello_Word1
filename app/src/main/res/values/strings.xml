@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello Word</string>
+    <string name="Welcome">Button</string>
+    <string name="welcome_to">Welcome To</string>
+</resources>
